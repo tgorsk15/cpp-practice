@@ -3,7 +3,7 @@
 
 int main()
 {
-    int x = 0;
+    int x;
 
     std::cout << x << '\n';
 
